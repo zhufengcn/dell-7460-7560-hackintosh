@@ -1,5 +1,14 @@
 ## Change log
 
+2019-10-08
+
+- 更新 clover
+- 更新部分 kext
+- 独立出 10.15 的 EFI 文件夹
+- 独立出 dw1560/dw1830 网卡驱动
+- 独立出不同机型的 USB 端口定制
+- 使用 [P-little](https://github.com/daliansky/P-little/) 制作 ACPI hotpatch
+
 2019-06-11
 
 - 更新 clover
