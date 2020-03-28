@@ -366,7 +366,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>gfxrst=1 applbkl=1</string>
+		<string>gfxrst=1 applbkl=1 lilucpu=9</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -407,6 +407,10 @@
 				</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
+				<key>device-id</key>
+				<data>
+				FlkAAA==
+				</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>disable-external-gpu</key>
